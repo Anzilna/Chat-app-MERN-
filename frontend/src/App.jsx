@@ -28,7 +28,6 @@ const App = () => {
 
    return (
     <div data-theme={theme}>   
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA..." />
    
       <Navbar/>
       <Routes>
